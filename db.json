@@ -1,0 +1,407 @@
+{
+    "status": 200,
+    "warning": "These results do not include state and province holidays. For more information, please visit https://holidayapi.com/docs",
+    "requests": {
+    "used": 1,
+    "available": 9999,
+    "resets": "2023-01-01 00:00:00"
+    },
+    "holidays": [
+    {
+    "name": "New Year's Day",
+    "date": "2021-01-01",
+    "observed": "2021-01-01",
+    "public": true,
+    "country": "KE",
+    "uuid": "45945cd7-7130-4dfb-9f34-2e5e2665c42b",
+    "weekday": {
+    "date": {
+    "name": "Friday",
+    "numeric": "5"
+    },
+    "observed": {
+    "name": "Friday",
+    "numeric": "5"
+    }
+    }
+    },
+    {
+    "name": "March Equinox",
+    "date": "2021-03-20",
+    "observed": "2021-03-20",
+    "public": false,
+    "country": "KE",
+    "uuid": "5b35e14d-4b28-461f-a61a-c28f778500e8",
+    "weekday": {
+    "date": {
+    "name": "Saturday",
+    "numeric": "6"
+    },
+    "observed": {
+    "name": "Saturday",
+    "numeric": "6"
+    }
+    }
+    },
+    {
+    "name": "Good Friday",
+    "date": "2021-04-02",
+    "observed": "2021-04-02",
+    "public": true,
+    "country": "KE",
+    "uuid": "a2915ac4-c013-4429-90f9-99ad7e3e64d8",
+    "weekday": {
+    "date": {
+    "name": "Friday",
+    "numeric": "5"
+    },
+    "observed": {
+    "name": "Friday",
+    "numeric": "5"
+    }
+    }
+    },
+    {
+    "name": "Easter",
+    "date": "2021-04-04",
+    "observed": "2021-04-04",
+    "public": false,
+    "country": "KE",
+    "uuid": "db691f0d-75b2-48db-abef-0b68fac08f0f",
+    "weekday": {
+    "date": {
+    "name": "Sunday",
+    "numeric": "7"
+    },
+    "observed": {
+    "name": "Sunday",
+    "numeric": "7"
+    }
+    }
+    },
+    {
+    "name": "Easter Monday",
+    "date": "2021-04-05",
+    "observed": "2021-04-05",
+    "public": true,
+    "country": "KE",
+    "uuid": "3768ec04-810c-45ed-b00d-2c690833cfd6",
+    "weekday": {
+    "date": {
+    "name": "Monday",
+    "numeric": "1"
+    },
+    "observed": {
+    "name": "Monday",
+    "numeric": "1"
+    }
+    }
+    },
+    {
+    "name": "Labor Day",
+    "date": "2021-05-01",
+    "observed": "2021-05-01",
+    "public": true,
+    "country": "KE",
+    "uuid": "9e7108d8-b3cb-43a1-a608-85d25fb5d1c1",
+    "weekday": {
+    "date": {
+    "name": "Saturday",
+    "numeric": "6"
+    },
+    "observed": {
+    "name": "Saturday",
+    "numeric": "6"
+    }
+    }
+    },
+    {
+    "name": "Mother's Day",
+    "date": "2021-05-09",
+    "observed": "2021-05-09",
+    "public": false,
+    "country": "KE",
+    "uuid": "ec8fcd76-8bdd-4c28-87dd-17545673556a",
+    "weekday": {
+    "date": {
+    "name": "Sunday",
+    "numeric": "7"
+    },
+    "observed": {
+    "name": "Sunday",
+    "numeric": "7"
+    }
+    }
+    },
+    {
+    "name": "Festival of Breaking the Fast",
+    "date": "2021-05-12",
+    "observed": "2021-05-12",
+    "public": true,
+    "country": "KE",
+    "uuid": "9dcaea16-b9d0-437a-8877-030d9dbd15a0",
+    "weekday": {
+    "date": {
+    "name": "Wednesday",
+    "numeric": "3"
+    },
+    "observed": {
+    "name": "Wednesday",
+    "numeric": "3"
+    }
+    }
+    },
+    {
+    "name": "Madaraka Day",
+    "date": "2021-06-01",
+    "observed": "2021-06-01",
+    "public": true,
+    "country": "KE",
+    "uuid": "cd14b05f-7a45-404c-94ff-8fc4c4b2cac1",
+    "weekday": {
+    "date": {
+    "name": "Tuesday",
+    "numeric": "2"
+    },
+    "observed": {
+    "name": "Tuesday",
+    "numeric": "2"
+    }
+    }
+    },
+    {
+    "name": "Father's Day",
+    "date": "2021-06-20",
+    "observed": "2021-06-20",
+    "public": false,
+    "country": "KE",
+    "uuid": "a4cf0922-a53a-4b6c-998f-071a960c0bef",
+    "weekday": {
+    "date": {
+    "name": "Sunday",
+    "numeric": "7"
+    },
+    "observed": {
+    "name": "Sunday",
+    "numeric": "7"
+    }
+    }
+    },
+    {
+    "name": "June Solstice",
+    "date": "2021-06-21",
+    "observed": "2021-06-21",
+    "public": false,
+    "country": "KE",
+    "uuid": "3d66ad57-5f02-40fa-ae56-46f18ddba92c",
+    "weekday": {
+    "date": {
+    "name": "Monday",
+    "numeric": "1"
+    },
+    "observed": {
+    "name": "Monday",
+    "numeric": "1"
+    }
+    }
+    },
+    {
+    "name": "Feast of the Sacrifice",
+    "date": "2021-07-19",
+    "observed": "2021-07-19",
+    "public": false,
+    "country": "KE",
+    "uuid": "b1e8b94c-516f-4b25-9a43-69b9e9bd92e9",
+    "weekday": {
+    "date": {
+    "name": "Monday",
+    "numeric": "1"
+    },
+    "observed": {
+    "name": "Monday",
+    "numeric": "1"
+    }
+    }
+    },
+    {
+    "name": "September Equinox",
+    "date": "2021-09-22",
+    "observed": "2021-09-22",
+    "public": false,
+    "country": "KE",
+    "uuid": "ed2652cb-93ab-4e52-824e-64c437035b00",
+    "weekday": {
+    "date": {
+    "name": "Wednesday",
+    "numeric": "3"
+    },
+    "observed": {
+    "name": "Wednesday",
+    "numeric": "3"
+    }
+    }
+    },
+    {
+    "name": "Moi Day",
+    "date": "2021-10-10",
+    "observed": "2021-10-11",
+    "public": true,
+    "country": "KE",
+    "uuid": "ff18ecfa-ef4e-4ad4-8e93-edd6024965cc",
+    "weekday": {
+    "date": {
+    "name": "Sunday",
+    "numeric": "7"
+    },
+    "observed": {
+    "name": "Monday",
+    "numeric": "1"
+    }
+    }
+    },
+    {
+    "name": "Mashujaa Day",
+    "date": "2021-10-20",
+    "observed": "2021-10-20",
+    "public": true,
+    "country": "KE",
+    "uuid": "5e4e3882-6846-4dcd-b185-057279cf8876",
+    "weekday": {
+    "date": {
+    "name": "Wednesday",
+    "numeric": "3"
+    },
+    "observed": {
+    "name": "Wednesday",
+    "numeric": "3"
+    }
+    }
+    },
+    {
+    "name": "Festival of Lights",
+    "date": "2021-11-04",
+    "observed": "2021-11-04",
+    "public": false,
+    "country": "KE",
+    "uuid": "7351acc3-4c43-4d1a-a517-97f5a22ebe12",
+    "weekday": {
+    "date": {
+    "name": "Thursday",
+    "numeric": "4"
+    },
+    "observed": {
+    "name": "Thursday",
+    "numeric": "4"
+    }
+    }
+    },
+    {
+    "name": "Jamhuri Day",
+    "date": "2021-12-12",
+    "observed": "2021-12-13",
+    "public": true,
+    "country": "KE",
+    "uuid": "ba89a566-3c4d-40a3-a9c9-b5bc09ca2de5",
+    "weekday": {
+    "date": {
+    "name": "Sunday",
+    "numeric": "7"
+    },
+    "observed": {
+    "name": "Monday",
+    "numeric": "1"
+    }
+    }
+    },
+    {
+    "name": "December Solstice",
+    "date": "2021-12-21",
+    "observed": "2021-12-21",
+    "public": false,
+    "country": "KE",
+    "uuid": "2d86fdd7-ae7f-42a6-8b5f-c29baeb8df07",
+    "weekday": {
+    "date": {
+    "name": "Tuesday",
+    "numeric": "2"
+    },
+    "observed": {
+    "name": "Tuesday",
+    "numeric": "2"
+    }
+    }
+    },
+    {
+    "name": "Christmas Eve",
+    "date": "2021-12-24",
+    "observed": "2021-12-24",
+    "public": false,
+    "country": "KE",
+    "uuid": "cf5b114c-717b-425c-a167-f2f89ec61e1c",
+    "weekday": {
+    "date": {
+    "name": "Friday",
+    "numeric": "5"
+    },
+    "observed": {
+    "name": "Friday",
+    "numeric": "5"
+    }
+    }
+    },
+    {
+    "name": "Christmas Day",
+    "date": "2021-12-25",
+    "observed": "2021-12-25",
+    "public": true,
+    "country": "KE",
+    "uuid": "de5290c4-7ba2-4be2-9175-e0d1fd8671a7",
+    "weekday": {
+    "date": {
+    "name": "Saturday",
+    "numeric": "6"
+    },
+    "observed": {
+    "name": "Saturday",
+    "numeric": "6"
+    }
+    }
+    },
+    {
+    "name": "Boxing Day",
+    "date": "2021-12-26",
+    "observed": "2021-12-26",
+    "public": true,
+    "country": "KE",
+    "uuid": "74e82898-da6d-4a91-a539-c2d3f4b970fd",
+    "weekday": {
+    "date": {
+    "name": "Sunday",
+    "numeric": "7"
+    },
+    "observed": {
+    "name": "Sunday",
+    "numeric": "7"
+    }
+    }
+    },
+    {
+    "name": "New Year's Eve",
+    "date": "2021-12-31",
+    "observed": "2021-12-31",
+    "public": false,
+    "country": "KE",
+    "uuid": "b21bf20a-adca-4003-a14f-924011ef2089",
+    "weekday": {
+    "date": {
+    "name": "Friday",
+    "numeric": "5"
+    },
+    "observed": {
+    "name": "Friday",
+    "numeric": "5"
+    }
+    }
+    }
+    ]
+    }

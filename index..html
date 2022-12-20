@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <script src="script.js"></script>
+        <link rel="script" type="text/js" href="script.js">
+
+      </script>
+       </head>
+      
+  <head>
+    <title>Holidays</title>
+  <body>
+    <h1>Holidays</h1>
+    <div id="holidays"></div>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        
+    <script>
+      fetch('db.json')
+        .then(response => response.json())
+        .then(data => {
+          const holidaysDiv = document.getElementById('holidays');
+          const ul = document.createElement('ul');
+          holidaysDiv.appendChild(ul);
+
+          data.holidays.forEach(holiday => {
+            const li = document.createElement('li');
+            li.innerHTML = `${holiday.name}: ${holiday.date}`;
+            ul.appendChild(li);
+          });
+        });
+   
+    </script>
+  </body>
+</html>
