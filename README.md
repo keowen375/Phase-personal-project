@@ -6,7 +6,7 @@ The holiday app can be able to show what holidays are comming up depnding on the
 
 The app enebles you to plan for future events.
 
-Project Setup
+Projectsetup
 
 Getting Started
 
